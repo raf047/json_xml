@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeeXML>
+    <firstName>Dan</firstName>
+    <lastName>Hamilton</lastName>
+    <age>47</age>
+    <address>
+        <city>Yerevan</city>
+        <country>AM</country>
+        <postalCode>4747</postalCode>
+        <street>Khachatryan</street>
+    </address>
+    <phoneNumbers>
+        <number>123456789</number>
+        <type>HOME</type>
+    </phoneNumbers>
+    <phoneNumbers>
+        <number>123476789</number>
+        <type>HOME</type>
+    </phoneNumbers>
+</employeeXML>

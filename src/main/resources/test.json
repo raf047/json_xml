@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "Dan",
+    "lastName": "Hamilton",
+    "age": 47,
+    "address": {
+      "city": "Yerevan",
+      "country": "AM",
+      "street": "Khachatryan",
+      "postalCode": 4747
+    },
+    "phoneNumbers": [
+      {
+        "number": "123456789",
+        "type": "HOME"
+      },
+      {
+        "number": "123476789",
+        "type": "HOME"
+      }
+    ]
+  },
+  {
+    "firstName": "Ban",
+    "lastName": "Hamilton",
+    "age": 11,
+    "address": {
+      "city": "Yeghvard",
+      "country": "AM",
+      "street": "Sevak",
+      "postalCode": 4747
+    },
+    "phoneNumbers": [
+      {
+        "number": "123456789",
+        "type": "HOME"
+      },
+      {
+        "number": "123476789",
+        "type": "HOME"
+      }
+    ]
+  }
+]
